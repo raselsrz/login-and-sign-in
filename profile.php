@@ -108,8 +108,8 @@ $users = $_SESSION['user_data'];
         </div>
         <!-- END EDMO HTML (Happy Coding!)-->
     </main>
-    <footer class="cd__credit">Author: adrien - Distributed By: <a title="Free web design code & scripts"
-            href="https://www.codehim.com?source=demo-page" target="_blank">CodeHim</a></footer>
+    <footer class="cd__credit">Author: Rasel Srz By: <a title="Free web design code & scripts"
+            href="https://www.codehim.com?source=demo-page" target="_blank">Ujjol Lab</a></footer>
 
     <!-- Script JS -->
     <script src="./js/script.js"></script>
