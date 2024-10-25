@@ -22,7 +22,7 @@ $users = $_SESSION['user_data'];
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="author" content="CodeHim">
-    <title> Dashboard Profile Page Theme Color CSS Vanilla JS Example </title>
+    <title>Profile Page | Srz</title>
     <!-- Style CSS -->
     <link rel="stylesheet" href="./css/style.css">
     <!-- Demo CSS (No need to include it into your project) -->

@@ -33,8 +33,6 @@ if (isset($_SESSION['login']) && $_SESSION['login']) {
     header("Location: /profile.php");
 }
 
-
-
 ?>
 
 
@@ -52,7 +50,7 @@ if (isset($_SESSION['login']) && $_SESSION['login']) {
     <meta name="msapplication-navbutton-color" content="#06aa5e">
     <meta name="apple-mobile-web-app-capable" content="yes">
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
-    <title>Sign In | Basket ™</title>
+    <title>Sign In | Srz</title>
     <link rel="shortcut icon" href="./assets/images/favicon.png" type="image/x-icon">
     <link rel="stylesheet" href="./assets/css/styles.css">
 </head>
